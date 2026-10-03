@@ -1,0 +1,56 @@
+[
+  {
+    "id": "oak-and-ember",
+    "name": "Oak & Ember",
+    "image": "https://picsum.photos/seed/oak-and-ember/800/500",
+    "imageAlt": "Placeholder image for Oak & Ember",
+    "summary": "A welcoming restaurant website with seasonal menus, a photo gallery, and table booking. Built with WordPress so the team can update dishes and opening hours themselves.",
+    "liveUrl": "https://example.com/oak-and-ember",
+    "githubUrl": "https://github.com/your-username/oak-and-ember"
+  },
+  {
+    "id": "northline-studio",
+    "name": "Northline Studio",
+    "image": "https://picsum.photos/seed/northline-studio/800/500",
+    "imageAlt": "Placeholder image for Northline Studio",
+    "summary": "A portfolio website for an architecture studio, featuring project galleries, detailed case studies, and an enquiry form. A restrained layout puts the photography first.",
+    "liveUrl": "https://example.com/northline-studio",
+    "githubUrl": "https://github.com/your-username/northline-studio"
+  },
+  {
+    "id": "the-plant-room",
+    "name": "The Plant Room",
+    "image": "https://picsum.photos/seed/the-plant-room/800/500",
+    "imageAlt": "Placeholder image for The Plant Room",
+    "summary": "A WooCommerce shop for houseplants and accessories, with product filters, care guides, and a straightforward checkout. Designed to make finding the right plant easy on mobile.",
+    "liveUrl": "https://example.com/the-plant-room",
+    "githubUrl": "https://github.com/your-username/the-plant-room"
+  },
+  {
+    "id": "coast-and-country",
+    "name": "Coast & Country",
+    "image": "https://picsum.photos/seed/coast-and-country/800/500",
+    "imageAlt": "Placeholder image for Coast & Country",
+    "summary": "A holiday cottage website with property listings, image galleries, and local area guides. Visitors can compare accommodation and send an enquiry about their preferred dates.",
+    "liveUrl": "https://example.com/coast-and-country",
+    "githubUrl": "https://github.com/your-username/coast-and-country"
+  },
+  {
+    "id": "forge-fitness",
+    "name": "Forge Fitness",
+    "image": "https://picsum.photos/seed/forge-fitness/800/500",
+    "imageAlt": "Placeholder image for Forge Fitness",
+    "summary": "A bold website for an independent gym, bringing together class timetables, trainer profiles, and membership options. Clear calls to action help visitors book their first session.",
+    "liveUrl": "https://example.com/forge-fitness",
+    "githubUrl": "https://github.com/your-username/forge-fitness"
+  },
+  {
+    "id": "hammond-electrical",
+    "name": "Hammond Electrical",
+    "image": "https://picsum.photos/seed/hammond-electrical/800/500",
+    "imageAlt": "Placeholder image for Hammond Electrical",
+    "summary": "A practical website for a local electrician, with service pages, customer testimonials, and a quote request form. Built around quick access to contact details and areas covered.",
+    "liveUrl": "https://example.com/hammond-electrical",
+    "githubUrl": "https://github.com/your-username/hammond-electrical"
+  }
+]

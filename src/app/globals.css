@@ -1,0 +1,30 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --background: #ffffff;
+    --foreground: #09090b;
+  }
+
+  * {
+    border-color: #e4e4e7;
+  }
+
+  html,
+  body {
+    background-color: #ffffff;
+    color: #09090b;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    overflow-x: hidden;
+  }
+}
+
+.left-panel {
+  background-color: #ffffffc7;
+}
+
+.bg-zinc-950 {
+  background-color: lab(19 -8.84 -14.16) !important
+}
